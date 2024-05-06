@@ -1,3 +1,5 @@
 nombres jugadores del Betis:
+- Isco
 - Fekir
 - Jhonny Cardoso
+
